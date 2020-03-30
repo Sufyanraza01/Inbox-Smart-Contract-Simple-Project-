@@ -1,0 +1,53 @@
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0xa92c8f85ff6dcc5e9f725b3e8d05f6f675813a8af840a0e7820ffc5b560b138e
+   > Blocks: 2            Seconds: 18
+   > contract address:    0x1d0D60283384c63b5A163B59D5Aad02931187D98
+   > block number:        6227601
+   > block timestamp:     1585568193
+   > account:             0x18517f90F4FAB0A22afD5031785B25ee6d56C687
+   > balance:             42.985875081
+   > gas used:            225237
+   > gas price:           25 gwei
+   > value sent:          0 ETH
+   > total cost:          0.005630925 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:         0.005630925 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'Inbox'
+   -----------------
+   > transaction hash:    0x917e467c6c2003e4525a57219f46ef45984134303ce69841561c72bc0ea8a039
+   > Blocks: 1            Seconds: 22
+   > contract address:    0x606EaF9C80043F433dE3B6651a4F76939651Ace1
+   > block number:        6227604
+   > block timestamp:     1585568238
+   > account:             0x18517f90F4FAB0A22afD5031785B25ee6d56C687
+   > balance:             42.977024131
+   > gas used:            311675
+   > gas price:           25 gwei
+   > value sent:          0 ETH
+   > total cost:          0.007791875 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:         0.007791875 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.0134228 ETH
